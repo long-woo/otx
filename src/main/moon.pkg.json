@@ -1,6 +1,6 @@
 {
   "is-main": true,
   "import": [
-    "loun/hello/lib"
+    "otx/lib"
   ]
 }

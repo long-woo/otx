@@ -1,10 +1,10 @@
 {
-  "name": "loun/otx",
+  "name": "otx",
   "version": "0.1.0",
   "readme": "README.md",
-  "repository": "",
-  "license": "Apache-2.0",
-  "keywords": [],
-  "description": "",
+  "repository": "https://github.com/long-woo/otx.git",
+  "license": "MIT",
+  "keywords": ["otx", "api", "openapi", "swagger"],
+  "description": "使用 MoonBit 实现 OpenApi 规范的 API 文档生成代码。",
   "source": "src"
 }
